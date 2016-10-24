@@ -54,6 +54,17 @@ entries:
     url: https://github.com/Wakanda/wakanda-issues/issues
     target: _blank
 
+- title:  Wakanda Cloud
+  pages:
+  
+  - title: Getting Started
+    url: http://doc.wakanda.org/
+    target: _blank
+    
+     -  title: Creating your first application
+        url: http://doc.wakanda.org/
+        target: _blank 
+
   - title: How to contribute to this page
     url: CONTRIBUTING.html
 
